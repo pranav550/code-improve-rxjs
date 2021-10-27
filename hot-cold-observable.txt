@@ -1,0 +1,2 @@
+cold observable generating data outside .it return differnt value
+hot observable generating data inside and observable. it return the same value

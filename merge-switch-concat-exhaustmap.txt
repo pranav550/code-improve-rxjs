@@ -1,0 +1,7 @@
+mergemap- subscribe all observable at a time;
+
+concatmap- subscribe first inner observale then after compleete first inner observale .move to the second overbale
+
+switchmap- while excuting the first inner observable second observle in encounter so  switch to the second observable instead of completeing the first observable it switch to the second one so it is switching to the latest observale
+
+exhaustmap- while excuting first observable second observable encounter so it exclude the second observable until it is executing first observable
